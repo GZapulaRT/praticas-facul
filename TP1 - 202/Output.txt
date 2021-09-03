@@ -1,0 +1,32 @@
+Exercicio:
+1 - Albuns
+3 - Potencia
+Insira o numero de albuns a serem tratados: Nome do artista: Nacionalidade do artista: Insira o numero de musicas no album: 	Musicas:
+Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome do album: Ano de lancamento do album: Genero do album: Nome do artista: Nacionalidade do artista: Insira o numero de musicas no album: 	Musicas:
+Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome do album: Ano de lancamento do album: Genero do album: Nome do artista: Nacionalidade do artista: Insira o numero de musicas no album: 	Musicas:
+Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome do album: Ano de lancamento do album: Genero do album: Nome do artista: Nacionalidade do artista: Insira o numero de musicas no album: 	Musicas:
+Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome da musica: Duracao da musica: Nome do album: Ano de lancamento do album: Genero do album: Opcoes:
+	1 - Imprimir musicas de um album
+	2 - Imprimir os albuns ordenados 
+
+Michael Jackson (Estados Unidos)
+Thriller
+1982
+Rock/Pop/Funk/R&B
+
+Rammstein (Alemanha)
+Mutter
+2001
+Hard Rock/Metal/Deustche Härte
+
+Linkin Park (Estados Unidos)
+Meteora
+2003
+Rap/Metal/Rock
+
+Five Finger Death Punch (Estados Unidos)
+War is the Answer
+2009
+Hard Rock/Metal
+
+
